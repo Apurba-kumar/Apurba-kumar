@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Apurba Kumar.
 #### Web developer
-![Web developer](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/300169872_3291373854471236_4378834416442513552_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGcib-WcjS1M0z5Q2ktnWMlQQuJg_6dpZtBC4mD_p2lm6o5Nl_Mcb_XLA9n0WGooaMNaqTGY1YRDnoy6Gi6tW0s&_nc_ohc=wnzkKt9S77QAX83CTsW&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AT9Fg5tWKOvwq059Ku5hAW588NfffZcXtrft9bGPfTfFvQ&oe=633D8405)
+![Web developer](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/488f115d-6e44-4ccd-b238-b2699af64966/d7bmt54-cde04c58-1c7d-41d2-84aa-ba777a5e5e57.jpg/v1/fill/w_1600,h_900,q_75,strp/web_developer_wallpaper__code__by_plusjack_d7bmt54-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNDg4ZjExNWQtNmU0NC00Y2NkLWIyMzgtYjI2OTlhZjY0OTY2XC9kN2JtdDU0LWNkZTA0YzU4LTFjN2QtNDFkMi04NGFhLWJhNzc3YTVlNWU1Ny5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vHgupyecAg5BSAmKddsETVA6TmT2Dp-kGL64C5Oprqk)
 
  I am a CSE undergraduate student who is looking to develop his web development skills through a well-known organization with an inquiring mind.  Who have enthusiastic, self-motivated, reliable, responsible, and hard-working skills to be willing to learn and develop new skills.
 
