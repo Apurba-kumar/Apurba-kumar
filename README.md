@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Apurba Kumar.
 #### Web developer
-![Web developer](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/488f115d-6e44-4ccd-b238-b2699af64966/d7bmt54-cde04c58-1c7d-41d2-84aa-ba777a5e5e57.jpg/v1/fill/w_1600,h_900,q_75,strp/web_developer_wallpaper__code__by_plusjack_d7bmt54-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNDg4ZjExNWQtNmU0NC00Y2NkLWIyMzgtYjI2OTlhZjY0OTY2XC9kN2JtdDU0LWNkZTA0YzU4LTFjN2QtNDFkMi04NGFhLWJhNzc3YTVlNWU1Ny5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vHgupyecAg5BSAmKddsETVA6TmT2Dp-kGL64C5Oprqk)
+![Web developer](https://www.dropbox.com/s/1hrwi2zmp9x0ero/300169872_3291373854471236_4378834416442513552_n.jpg?dl=0)
 
  I am a CSE undergraduate student who is looking to develop his web development skills through a well-known organization with an inquiring mind.  Who have enthusiastic, self-motivated, reliable, responsible, and hard-working skills to be willing to learn and develop new skills.
 
