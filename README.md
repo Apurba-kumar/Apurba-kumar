@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Apurba Kumar.
-#### Web developer
+## Web developer
 ![Web developer](https://github.com/Apurba-kumar/picture/blob/main/300169872_3291373854471236_4378834416442513552_n.jpg)
 
  I am a CSE undergraduate student who is looking to develop his web development skills through a well-known organization with an inquiring mind.  Who have enthusiastic, self-motivated, reliable, responsible, and hard-working skills to be willing to learn and develop new skills.
@@ -7,7 +7,7 @@
 Skills: PHP/ Laravel /MySQL/C/C++/C#/HTML / CSS/Bootstrap
 
 - 🔭 I’m currently working on a E commerce website. 
-- 🌱 I’m currently learning RESTful API. 
+- 🌱 I’m currently try to learning RESTful API. 
 - 👯 I’m looking to collaborate on Github 
 
 ---
